@@ -2,6 +2,8 @@
 
 TypeWriter is a small desktop typewriter simulator built with C++17 and SFML. It recreates the movement, sounds, and constrained writing area of a physical typewriter, and can save the current page as an image.
 
+![TypeWriter demo](assets/demo.gif)
+
 ## Features
 
 - Typewriter-style text entry and carriage movement
@@ -45,4 +47,3 @@ Run the executable from the repository root so it can locate the `resources` dir
 ## Project status
 
 This is an experimental personal project. The interface is currently tuned for large displays and supports printable ASCII characters.
-
