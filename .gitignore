@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+cmake-build-*/
+build/
+main
+mem.txt
+resources/saved_pages/*
+!resources/saved_pages/.gitkeep
