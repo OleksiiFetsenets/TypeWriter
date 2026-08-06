@@ -47,3 +47,7 @@ Run the executable from the repository root so it can locate the `resources` dir
 ## Project status
 
 This is an experimental personal project. The interface is currently tuned for large displays and supports printable ASCII characters.
+
+## License
+
+The source code and original visual artwork are available under the [MIT License](LICENSE). Bundled sounds are CC0, and the Special Elite font is Apache 2.0 licensed. See [third-party notices](THIRD_PARTY_NOTICES.md) for sources and details.
